@@ -1,0 +1,5 @@
+DS_Store
+.vagrant
+.gitignore.swp
+modules/spark-1.4.0-bin-hadoop2.6.tgz
+modules/jdk-7u79-linux-x64.tar.gz
